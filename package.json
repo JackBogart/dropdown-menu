@@ -1,6 +1,6 @@
 {
   "name": "@jackbogart/dropdown-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package contains reusable functions to implement a dropdown menu via a button and dropdown content.",
   "main": "dist/main.js",
   "scripts": {
