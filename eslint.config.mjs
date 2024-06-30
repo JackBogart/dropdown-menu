@@ -14,12 +14,7 @@ export default [
     },
   },
   {
-    ignores: [
-      'webpack.common.js',
-      'webpack.dev.js',
-      'webpack.prod.js',
-      'dist/',
-    ],
+    ignores: ['webpack.config.js', 'dist/'],
   },
   pluginJs.configs.recommended,
 ];
